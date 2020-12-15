@@ -48,20 +48,20 @@ This repository contains a ROS package to use Fetch robot in Gazebo simulator. I
    git clone https://github.com/hri-group/fetch_simulator.git
    ```
 2. Build package
-  ```sh
-   catkin build
-   ```
+    ```sh
+    catkin build
+    ```
 3. Source setup file
-  ```sh
-   source devel/setup.bash
-   ```
+    ```sh
+    source devel/setup.bash
+    ```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 1. Run launch file
-  ``sh
-   roslaunch fetch_simulator simulation.launch
-   ```
+    ```sh
+    roslaunch fetch_simulator simulation.launch
+    ```
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
