@@ -1,3 +1,5 @@
+# ROS simulation for Fetch Mobile Manipulator
+
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
@@ -21,9 +23,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+This repository contains a ROS package to use Fetch robot in Gazebo simulator. It contains a modified model of [kitchen_dining](https://github.com/osrf/gazebo_models/tree/master/kitchen_dining).
+
+
 ![Simulation Screenshot][simulation-screenshot]
 
-ROS Melodic + Ubuntu 18.04
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -43,12 +47,21 @@ ROS Melodic + Ubuntu 18.04
    ```sh
    git clone https://github.com/hri-group/fetch_simulator.git
    ```
-
+2. Build package
+  ```sh
+   catkin build
+   ```
+3. Source setup file
+  ```sh
+   source devel/setup.bash
+   ```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-
-
+1. Run launch file
+  ``sh
+   roslaunch fetch_simulator simulation.launch
+   ```
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
