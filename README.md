@@ -21,7 +21,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Simulation Screenshot][simulation-screenshot]]
+![Simulation Screenshot][simulation-screenshot]
 
 ROS Melodic + Ubuntu 18.04
 
