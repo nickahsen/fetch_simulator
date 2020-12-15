@@ -52,4 +52,4 @@ ROS Melodic + Ubuntu 18.04
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[simulation-screenshot]: https://user-images.githubusercontent.com/63774344/102276079-6e0f7980-3f7a-11eb-85ab-f408350b1fef.png
+[simulation-screenshot]: https://user-images.githubusercontent.com/63774344/102276863-8f249a00-3f7b-11eb-8b8d-3ac47e720c67.png
